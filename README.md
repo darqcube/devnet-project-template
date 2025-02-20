@@ -1,3 +1,3 @@
 # project-template
 
-This the template folder for AI projects
+This is the template folder for devnet projects template
